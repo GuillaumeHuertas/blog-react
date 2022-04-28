@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blog-reat/static/css/main.9adf7fcf.css",
+    "main.js": "/blog-reat/static/js/main.8282bd2f.js",
+    "index.html": "/blog-reat/index.html",
+    "main.9adf7fcf.css.map": "/blog-reat/static/css/main.9adf7fcf.css.map",
+    "main.8282bd2f.js.map": "/blog-reat/static/js/main.8282bd2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9adf7fcf.css",
+    "static/js/main.8282bd2f.js"
+  ]
+}
