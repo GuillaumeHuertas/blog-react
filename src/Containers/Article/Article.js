@@ -1,6 +1,6 @@
 import React from 'react';
 import { useLocation } from 'react-router-dom';
-import './Article.css';
+import './Article.scss';
 
 export default function Article() {
 

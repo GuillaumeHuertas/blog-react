@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <NavBar />
-      <Routes basename={process.env.PUBLIC_URL}>
+      <Routes basename={"/blog-reat"}>
         <Route path='/' element={<Home />} />
         <Route path='/ecrire' element={<AddArticle />} />
         <Route path='/contact' element={<Contact />} />

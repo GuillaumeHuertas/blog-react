@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
-import './Form.css';
+import './Form.scss';
 
 export default function Form() {
 

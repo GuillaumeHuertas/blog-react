@@ -1,5 +1,5 @@
 import React from 'react';
-import './Home.css';
+import './Home.scss';
 import Card from '../../Components/Card/Card';
 import { useSelector, useDispatch } from 'react-redux';
 import { useEffect, useState } from 'react';
