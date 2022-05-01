@@ -69,7 +69,7 @@ export default function Form() {
                     className='inp-body'
                 ></textarea>
 
-                <button>Envoyer l'article</button>
+                <button className='btn btn-primary'>Envoyer l'article</button>
 
             </form>
         </>
